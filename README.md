@@ -1,4 +1,6 @@
 # React-projects
+<p>This repository consist of diffrent apps</p>
+<h3>Javascript,ReactJS,ExpressJS,NodeJS,MongoDB</h3>
 <h2>1.Empolyee Management System</h2>
 <h2>2.Weather App in React JS</h2>
 <h2>3.Covid-19 Tracker</h2>
